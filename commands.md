@@ -1,4 +1,4 @@
-indieBOT commands
+indieBoat commands
 ==================
 
 
