@@ -86,13 +86,13 @@ var retrieveFromStorage = function(){
 };
 
 var esBot = {
-        version: "1.2.1",        
+        version: "1.3",        
         status: false,
         name: "indieBoat",
         creator: "bikini",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/motelbible/indie/master/indieBoat.js",
-        cmdLink: "https://github.com/motelbible/indie/blob/master/Commands.md",
+        scriptLink: "https://rawgit.com/bikinif/indie/master/boat.js",
+        cmdLink: "https://github.com/bikinif/indie/blob/master/commands.md",
         roomSettings: {
             maximumAfk: 120,
             afkRemoval: false,                
@@ -2153,7 +2153,7 @@ var esBot = {
                                 if(this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                                 if( !esBot.commands.executable(this.rank, chat) ) return void (0);
                                 else{
-                                    API.sendChat('/me indieBoat made by ' + esBot.creator + '.');
+                                    API.sendChat('/me indieBoat made by ' + esBot.creator + ' - http://bikinif.tk');
                                 };                              
                         },
                 },
