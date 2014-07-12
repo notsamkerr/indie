@@ -797,8 +797,8 @@ var esBot = {
                     case '!cycle':              esBot.commands.cycleCommand.functionality(chat, '!cycle');                          executed = true; break;
                     //case '!cycleguard':         esBot.commands.cycleguardCommand.functionality(chat, '!cycleguard');                executed = true; break;
                     case '!cycletimer':         esBot.commands.cycletimerCommand.functionality(chat, '!cycletimer');                executed = true; break;
-                    //case '!dclookup':           esBot.commands.dclookupCommand.functionality(chat, '!dclookup');                    executed = true; break;
-                    //case '!dc':                 esBot.commands.dclookupCommand.functionality(chat, '!dc');                          executed = true; break;
+                    case '!dclookup':           esBot.commands.dclookupCommand.functionality(chat, '!dclookup');                    executed = true; break;
+                    case '!dc':                 esBot.commands.dclookupCommand.functionality(chat, '!dc');                          executed = true; break;
                     case '!emoji':              esBot.commands.emojiCommand.functionality(chat, '!emoji');                          executed = true; break;
                     case '!english':            esBot.commands.englishCommand.functionality(chat, '!english');                      executed = true; break;
                     case '!eta':                esBot.commands.etaCommand.functionality(chat, '!eta');                              executed = true; break;
@@ -1426,7 +1426,7 @@ var esBot = {
                 },
 
                 dclookupCommand: {
-                        rank: 'mod',
+                        rank: 'manager',
                         type: 'startsWith',
                         functionality: function(chat, cmd){
                                 if(this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -1438,7 +1438,7 @@ var esBot = {
                                     else{ 
                                         name = msg.substring(cmd.length + 2);
                                         var perm = esBot.userUtilities.getPermission(chat.fromID);
-                                        if(perm < 2) return API.sendChat('/me [@' + chat.from + '] Only bouncers and above can do !dclookup for others.');
+                                        if(perm < 2) return API.sendChat('/me [@' + chat.from + '] Only managers and above can do !dclookup for others.');
                                     }    
                                     var user = esBot.userUtilities.lookupUserName(name);
                                     if(typeof user === 'boolean') return API.sendChat('/me [@' + chat.from + '] Invalid user specified.');
