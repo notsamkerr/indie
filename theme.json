@@ -38,6 +38,18 @@
             "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
                 "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important",
                 "background-position": "0 0"
+            },
+            "#chat .mention.from-51cf57223b79032f112113c3 > i": {
+                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-51cf57223b79032f112113c3 > i": {
+                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-51cf57223b79032f112113c3 > i": {
+                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+                "background-position": "0 0"
             }
         }
     },
