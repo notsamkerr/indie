@@ -38,20 +38,4 @@
         "allowAutorespond": "false",
         "allowAutowoot": "true",
 	    "allowAutojoin": "false"
-    },
-    "#plugcubed":{
-               "background": "linear-gradient(to bottom,#0268AC 0,#02225C 100%) !important"
-            },
-            "#chat .mention.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
-                "background-position": "0 0"
-            },
-            "#chat .message.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
-                "background-position": "0 0"
-            },
-            "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
-                "background-position": "0 0"
-            },
-}
+    }
