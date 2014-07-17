@@ -8,21 +8,32 @@
             "#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1)": {
                 "background-color": "rgba(17, 19, 23, 0.75)"
             },
-            "#chat .emote.from-53a1fe54877b923257c51199": {
+            "#chat .emote.from-50aeb68296fba52c3ca126b4": {
                 "border-left": "#ac76ff 3px solid",
                 "background-color": "rgba(24, 0, 38, 0.9) !important"
-            
             },
-            ".emote.from-53a1fe54877b923257c51199 .from.staff.clickable": {
+            "#chat .mention.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
+            },
+            ".emote.from-50aeb68296fba52c3ca126b4 .from.staff.clickable": {
                 "display": "none"
             },
-            ".emote.from-53a1fe54877b923257c51199 .icon-chat-manager": {
+            ".emote.from-50aeb68296fba52c3ca126b4 .icon-chat-manager": {
                 "display": "none"
             },
-            "#chat .emote.from-53a1fe54877b923257c51199 .from": {
+            "#chat .emote.from-50aeb68296fba52c3ca126b4 .from": {
                  "color": "#ac76ff !important"
             },
-            "#chat .emote.from-53a1fe54877b923257c51199 .text": {
+            "#chat .emote.from-50aeb68296fba52c3ca126b4 .text": {
                 "font-style": "normal",
                 "font-weight": "bold",
                 "color": "#ac76ff"
