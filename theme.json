@@ -26,6 +26,18 @@
                 "font-style": "normal",
                 "font-weight": "bold",
                 "color": "#ac76ff"
+            },
+            "#chat .mention.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
+                "background-image": "url('http://radiantedm.com/rmscript/img/icon.bible.png') !important",
+                "background-position": "0 0"
             }
         }
     },
