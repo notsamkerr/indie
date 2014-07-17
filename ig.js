@@ -30,7 +30,7 @@
         }
     },
     "images": {
-        "background": "http://i.imgur.com/Aov2J4z.png",
+        "background": "http://wallpapers.wallbase.cc/rozne/wallpaper-749291.jpg",
         "booth": "",
         "playback": "http://i.imgur.com/8xFgQmU.png"
     },
