@@ -30,7 +30,7 @@
         }
     },
     "images": {
-        "background": "http://i.imgur.com/0dppPeD.jpg",
+        "background": "http://i.imgur.com/Aov2J4z.png",
         "booth": "",
         "playback": "http://i.imgur.com/8xFgQmU.png"
     },
@@ -39,3 +39,4 @@
         "allowAutowoot": "true",
 	    "allowAutojoin": "false"
     }
+}
