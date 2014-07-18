@@ -54,16 +54,16 @@
                 "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important",
                 "background-position": "0 0"
             },
-            "#chat .mention.from-51cf57223b79032f112113c3 > i": {
-                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+            "#chat .mention.from-51e405373b79030413dcf83a > i": {
+                "background-image": "url('http://i.imgur.com/VBoHdd1.png') !important",
                 "background-position": "0 0"
             },
-            "#chat .message.from-51cf57223b79032f112113c3 > i": {
-                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+            "#chat .message.from-51e405373b79030413dcf83a > i": {
+                "background-image": "url('http://i.imgur.com/VBoHdd1.png') !important",
                 "background-position": "0 0"
             },
-            "#chat .emote.from-51cf57223b79032f112113c3 > i": {
-                "background-image": "url('http://i.imgur.com/jb3z3en.png') !important",
+            "#chat .emote.from-51e405373b79030413dcf83a > i": {
+                "background-image": "url('http://i.imgur.com/VBoHdd1.png') !important",
                 "background-position": "0 0"
             },
             "#chat .mention.from-5244ea6696fba55077f3eb6f > i": {
