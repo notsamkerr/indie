@@ -126,6 +126,14 @@
     "images": {
         "background": "http://i.imgur.com/zyUOoKj.png",
         "booth": "",
+        "icons": {
+			"ambassador":"http://i.imgur.com/B9bPFYo.png",
+            "bouncer": "http://i.imgur.com/JeEaOIk.png",
+            "cohost": "http://i.imgur.com/32SJIeR.png",
+            "host": "http://i.imgur.com/32SJIeR.png",
+            "manager": "http://i.imgur.com/HzDqSl0.png",
+            "residentdj": "http://i.imgur.com/5dFaFQG.png"
+        },
         "playback": ""
     },
     "rules": {
