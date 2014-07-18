@@ -28,15 +28,15 @@
                 "color": "#ac76ff"
             },
             "#chat .mention.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", BIKINI
+                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", //BIKINI
                 "background-position": "0 0"
             },
             "#chat .message.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", BIKINI
+                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", //BIKINI
                 "background-position": "0 0"
             },
             "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", BIKINI
+                "background-image": "url('http://i.imgur.com/p4Y8Ixd.png') !important", //BIKINI
                 "background-position": "0 0"
             }
             }
