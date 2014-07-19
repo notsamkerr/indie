@@ -90,6 +90,18 @@
                 "background-image": "url('http://i.imgur.com/Vuz7oK3.png') !important",
                 "background-position": "0 0"
             },
+            "#chat .mention.from-5266ca7b3b790364ea69194a > i": {
+                "background-image": "url('http://i.imgur.com/zDTMoXd.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-5266ca7b3b790364ea69194a > i": {
+                "background-image": "url('http://i.imgur.com/zDTMoXd.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-5266ca7b3b790364ea69194a > i": {
+                "background-image": "url('http://i.imgur.com/zDTMoXd.png') !important",
+                "background-position": "0 0"
+            },
             "#playlist-meta": {
                 "background-color ": "rgba(40, 44, 53, 0.4)"
             },
