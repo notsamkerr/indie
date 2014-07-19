@@ -78,6 +78,18 @@
                 "background-image": "url('http://i.imgur.com/bIYHQpp.png') !important",
                 "background-position": "0 0"
             },
+            "#chat .mention.from-5115a122c3b97a13af12c79b > i": {
+                "background-image": "url('http://i.imgur.com/dYKSiT2.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-5115a122c3b97a13af12c79b > i": {
+                "background-image": "url('http://i.imgur.com/dYKSiT2.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-5115a122c3b97a13af12c79b > i": {
+                "background-image": "url('http://i.imgur.com/dYKSiT2.png') !important",
+                "background-position": "0 0"
+            },
             "#playlist-meta": {
                 "background-color ": "rgba(40, 44, 53, 0.4)"
             },
@@ -125,7 +137,7 @@
     },
     "images": {
         "background": "http://i.imgur.com/kTYrf7X.png",
-        "booth": "",
+        "booth": "http://i.imgur.com/DzDat72.png",
         "icons": {
 			"ambassador":"http://i.imgur.com/B9bPFYo.png",
             "bouncer": "http://i.imgur.com/JeEaOIk.png",
