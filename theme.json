@@ -79,40 +79,40 @@
                 "background-position": "0 0"
             },
             "#playlist-meta": {
-                "background-color ": "rgba(154, 122, 60, 0.4)"
+                "background-color ": "rgba(40, 44, 53, 0.4)"
             },
             "#now-playing-bar": {
-                "background-color ": "rgba(154, 122, 60, 0.4)"
+                "background-color ": "rgba(40, 44, 53, 0.4)"
             },
 			
 			"#room-bar": {
-		                   "background-color ": "rgba(154, 122, 60, 0.4)"
+		                   "background-color ": "rgba(40, 44, 53, 0.4)"
 		               },
 		  
 		  "#room-name": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 		  
 		  "#now-playing-media": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"900"
 		  },
 		  "#now-playing-dj": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 		  
 		  "#now-playing-time": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 		  "#volume": {
-		  "color":"#000000",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 		 
