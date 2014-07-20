@@ -6,7 +6,7 @@
 			"ambassador": "#89BE6C",
             "bouncer": "#AC76FF",
             "cohost": "#AC76FF",
-            "residentdj": "#79beb0",
+            "residentdj": "#79BEB0",
             "host": "#AC76FF",
             "manager": "#AC76FF"
         }
@@ -158,7 +158,7 @@
             "manager": "http://i.imgur.com/33Mutek.png",
             "residentdj": "http://i.imgur.com/5dFaFQG.png"
         },
-        "playback": ""
+        "playback": "http://i.imgur.com/bDJnpj3.png"
     },
     "rules": {
         "allowAutorespond": "true",
