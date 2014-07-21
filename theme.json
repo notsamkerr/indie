@@ -43,15 +43,15 @@
 					"background-color":"rgba(0, 175, 228, 0.20) !important","font-weight":"700","padding-left":"25px","border-left":"#7681FF 3px solid"
 				},
 		"#chat .mention.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/aAMP2tY.png') !important",
+                "background-image": "url('http://i.imgur.com/HioCmqo.png') !important",
                 "background-position": "0 0"
             },
             "#chat .message.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/aAMP2tY.png') !important",
+                "background-image": "url('http://i.imgur.com/HioCmqo.png') !important",
                 "background-position": "0 0"
             },
             "#chat .emote.from-50aeb68296fba52c3ca126b4 > i": {
-                "background-image": "url('http://i.imgur.com/aAMP2tY.png') !important",
+                "background-image": "url('http://i.imgur.com/HioCmqo.png') !important",
                 "background-position": "0 0"
             },
             "#chat .mention.from-51e405373b79030413dcf83a > i": {
