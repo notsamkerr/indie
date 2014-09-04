@@ -78,6 +78,18 @@
                 "background-image": "url('http://i.imgur.com/gR7kNKE.png') !important",
                 "background-position": "0 0"
             },
+            "#chat .mention.from-3652326 > i": {
+                "background-image": "url('http://i.imgur.com/KBesSjr.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .message.from-3652326 > i": {
+                "background-image": "url('http://i.imgur.com/KBesSjr.png') !important",
+                "background-position": "0 0"
+            },
+            "#chat .emote.from-3652326 > i": {
+                "background-image": "url('http://i.imgur.com/KBesSjr.png') !important",
+                "background-position": "0 0"
+            },
             "#playlist-meta": {
                 "background-color ": "rgba(40, 44, 53, 0.4)"
             },
